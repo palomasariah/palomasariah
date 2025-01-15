@@ -6,7 +6,7 @@ Sou uma pessoa determinada, proativa e em constante busca por desenvolvimento pe
 
 📈 Tenho habilidade em SQL para manipulação e análise de dados.
 
-🔭 Atualmente, estou trabalhando em projetos práticos usando BigQuery e PowerBI.
+🔭 Atualmente, estou trabalhando em projetos práticos usando SQL e PowerBI.
 
 🌱 Também estou estudando o CS50, curso de introdução à ciência da computação da Universidade de Harvard.
 
